@@ -1,0 +1,14 @@
+{
+  "name": "look-what-i-can-do",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sheard3/look-what-i-can-do.git",
+  "author": "Spencer Heard <78240412+sheard3@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^4.0.0",
+    "mongoose": "^5.13.2"
+  }
+}
